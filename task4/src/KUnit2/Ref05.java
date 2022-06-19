@@ -11,4 +11,4 @@ public class Ref05 {
 			System.out.printf("Field name=%s type=%s value=%f : ", f.getName(), f.getType(), f.getFloat(sm));
 		}
 }
-} 
+}    
