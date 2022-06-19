@@ -40,3 +40,4 @@ public class SimpleM {
 		  return String.format("(e:%f, f:%f)", e, f);
 	  }
 }
+   
